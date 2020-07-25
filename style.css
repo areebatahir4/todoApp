@@ -1,0 +1,49 @@
+.main-container{
+    text-align: center;
+    width:1500px;
+    height:650px;
+    
+    background-image: url(landing-page-slide-3.jpg);
+}
+body *{
+    margin: 0px;
+    padding:0px;
+}
+#list{
+    list-style-type: none;
+    color: white;
+    line-height: 60px;
+}
+.btn{    padding: 2px;
+    margin-left: 5px;
+    width: 64px;
+border: 1px solid black;
+background-color: rgb(236, 221, 236);
+}
+.btn:hover{
+    background-color: grey;
+}
+h1{
+   
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:white;
+}
+
+input{
+    width: 225px;
+    height: 22px;
+    background-color: rgb(236, 221, 236)e;
+    border:2px solid black;
+    padding:3px;
+}
+#button{
+    width: 96px;
+    height: 29px;
+    border:1px solid black;
+    background-color:rgb(236, 221, 236);
+
+}
+#button:hover{
+    background-color: grey;
+}
