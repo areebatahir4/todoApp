@@ -1,11 +1,12 @@
 .main-container{
     text-align: center;
     width:1500px;
+    max-width: 100%;
     height:650px;
     
     background-image: url(landing-page-slide-3.jpg);
 }
-body *{
+body, *{
     margin: 0px;
     padding:0px;
 }
