@@ -3,7 +3,7 @@
     width:1500px;
     max-width: 100%;
     height:650px;
-    
+    background-size: 100%;
     background-image: url(landing-page-slide-3.jpg);
 }
 body, *{
