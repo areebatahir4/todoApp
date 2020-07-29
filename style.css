@@ -18,11 +18,15 @@ body, *{
     
     line-height: 30px;
     
-    
+    width:450px;
+    margin:auto;
+    text-align:left;
 }
 .btn{        padding: 4px;
     margin-left: 5px;
-    width: 64px;
+    width: 96px;
+    height:30px;
+    float:right;
     border: 1px solid black;
     border-radius: 6px;
     background-color: lightsteelblue;
