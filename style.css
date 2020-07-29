@@ -25,10 +25,11 @@ body, *{
     width: 64px;
     border: 1px solid black;
     border-radius: 6px;
+    background-color: lightsteelblue;
 
 }
 .btn:hover{
-    background-color: grey;
+    background-color: lightblue;
 }
 h1{
    
